@@ -1,0 +1,6 @@
+{
+  "name": "Yemen Fuel Station",
+  "description": "نظام محاسبية وإدارة متكامل لمحطات محروقات اليمن يدعم عيارات الخزانات، قراءات العدادات، عجز عهود عمال الورديات، ودليل حسابات تفصيلي",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
